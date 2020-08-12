@@ -5,7 +5,7 @@
 
 # In[21]:
 
-
+#what i tried doin
 for x in range(2002, 3201, 7):
 if x%5!=0 :
     print(x)
@@ -25,7 +25,7 @@ print(2002%7)
 
 # In[22]:
 
-
+#what i found out is true
 nl=[]
 for x in range(2002, 3201):
     if (x%7==0) and (x%5!=0):
